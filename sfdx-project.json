@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "sandbox-admin-email-with-community",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "49.0"
+}
